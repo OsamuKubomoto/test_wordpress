@@ -1,0 +1,10 @@
+{
+    "name": "user/test_wordpress",
+    "authors": [
+        {
+            "name": "Kubomoto",
+            "email": "kubomoto@alpha-solutions.co.jp"
+        }
+    ],
+    "require": {}
+}
